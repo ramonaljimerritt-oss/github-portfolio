@@ -27,8 +27,24 @@ This project identifies the first 50 prime numbers and stores them in a custom J
 ![PrimeStacks2 Source Code](../../screenshots/PrimeStacks2-output.png)
   
 
-### 2. SortingNumbers.java
-A Java coursework program focused on sorting numerical data.
+
+## Java Sorting Performance Project
+
+This Java program measures how long it takes to sort arrays of different sizes. It generates random integers, uses Java's built-in Arrays.sort() method, and records the execution time in milliseconds.
+
+The program tests arrays containing 50,000, 100,000, 150,000, 200,000, 250,000, and 300,000 integers.
+
+### Programming Concepts
+- Java arrays
+- Sorting algorithms
+- Random number generation
+- Loops
+- Execution time measurement
+
+### Screenshot
+
+![SortingNumbers Program Output](../../screenshots/SortingNumbers-output.png)
+  
 
 ## Technical Skills
 
