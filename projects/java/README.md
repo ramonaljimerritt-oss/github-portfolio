@@ -24,7 +24,7 @@ This project identifies the first 50 prime numbers and stores them in a custom J
 ### Screenshots
 ![PrimeStacks Program Output](../../screenshots/PrimeStacks-output.png)
 
-![PrimeStacks2 Source Code](../../screenshots/PrimeStacks2-code.png)
+![PrimeStacks2 Source Code](../../screenshots/PrimeStacks2-output.png)
   
 
 ### 2. SortingNumbers.java
