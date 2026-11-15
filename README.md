@@ -1,6 +1,6 @@
 # Ramon A. Merritt — GitHub Portfolio
 
-COSC 4272 Senior Seminar project. Midnight theme (navy, charcoal, blue). Stated skills: Java and Swift; AI tools: Claude, ChatGPT, Gemini; cloud familiarity: Google Cloud. Professional portfolio and AI-assisted software development demonstration.
+COSC 4272 Senior Seminar project. Midnight theme (navy, charcoal, blue). Stated skills: Java AI tools: Claude, ChatGPT, Gemini; cloud familiarity: Google Cloud. Professional portfolio and AI-assisted software development demonstration.
 
 ## Contents
 - `index.html`: responsive professional website
