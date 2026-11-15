@@ -9,13 +9,25 @@ These projects demonstrate my experience working with Java, data structures, alg
 
 ## Programs
 
-### 1. NumberStacks.java
-A Java coursework program focused on working with numbers and stack-based data structures.
 
-### 2. PrimeStacks.java
-A Java coursework program exploring prime numbers and stack operations.
+## Java Prime Number Stack Project
 
-### 3. SortingNumbers.java
+This project identifies the first 50 prime numbers and stores them in a custom Java stack. The PrimeStacks class uses an ArrayList to implement stack operations such as push, pop, peek, isEmpty, and getSize. The NumberStacks program uses the stack to display the prime numbers in descending order.
+
+### Programming Concepts
+- Java generics
+- Stack data structures (LIFO)
+- ArrayList
+- Loops and conditional statements
+- Methods and object-oriented programming
+
+### Screenshots
+![PrimeStacks Program Output](../../screenshots/PrimeStacks-output.png)
+
+![PrimeStacks2 Source Code](../../screenshots/PrimeStacks2-code.png)
+  
+
+### 2. SortingNumbers.java
 A Java coursework program focused on sorting numerical data.
 
 ## Technical Skills
