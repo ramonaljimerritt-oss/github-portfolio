@@ -1,27 +1,54 @@
 # Ramon A. Merritt — GitHub Portfolio
 
-COSC 4272 Senior Seminar project. Midnight theme (navy, charcoal, blue). Stated skills: Java AI tools: Claude, ChatGPT, Gemini; cloud familiarity: Google Cloud. Professional portfolio and AI-assisted software development demonstration.
+## COSC 4272 Senior Seminar
 
-## Contents
-- `index.html`: responsive professional website
-- `resume.pdf`: downloadable resume
-- `ai-assistant/`: functional, browser-based, rule-driven study helper
-- `docs/`: project, career, and AI development documentation
-- `screenshots/`: sample visual assets and placeholder for original course project
+Welcome to my professional GitHub portfolio. This repository showcases my Computer Science education, technical skills, academic projects, and AI-assisted software development experience.
 
-## Run locally
-Open `index.html` in a modern browser. Open `ai-assistant/index.html` to test the app. No server, login, or API key is needed.
+I am pursuing a Bachelor of Science in Computer Science at Lamar University, with an anticipated graduation date of May 2029. My professional background includes operations supervision and industrial process technology. My goal is to combine my industry experience with software development and emerging technologies to pursue a career in technology.
 
-## Publish with GitHub Pages
-1. Sign in to GitHub and create a **public** repository named `github-portfolio`.
-2. Upload all files from this folder, keeping the folder structure intact.
-3. Commit with a meaningful message, e.g., `Add professional portfolio and study helper`.
-4. In repository **Settings → Pages**, choose **Deploy from a branch**, `main`, `/ (root)`, and save.
-5. Wait for deployment and verify `https://YOUR-USERNAME.github.io/github-portfolio/`.
-6. Replace GitHub and LinkedIn placeholders, add a professional headshot, confirm graduation date, and add original Java coursework files and screenshots.
+## Live Portfolio Website
 
-## AI project disclosure
-The app was developed with AI assistance but is **not** connected to an LLM. It uses a transparent keyword-based response system. See `docs/ai-project.md` and `docs/ai-prompt-log.md`.
+[View My Professional Portfolio](https://ramonaljimerritt-oss.github.io/github-portfolio/index.html)
 
-## Important
-No live GitHub account, repository, or Pages site was created automatically. Original project source and personal profile links must be added by the student.
+## Repository Contents
+
+- `index.html` — Professional portfolio website
+- `resume.pdf` — Downloadable professional resume
+- `ai-assistant/` — Browser-based AI-assisted study helper
+- `projects/` — Academic and personal project materials
+- `docs/` — Project and AI development documentation
+- `screenshots/` — Project screenshots and supporting visuals
+
+## Featured Software Project: ULTRON AI Assistant
+
+ULTRON is a Java-based AI assistant developed as part of my Computer Science coursework. The project demonstrates object-oriented programming, user interaction, persistent memory functionality, and AI-assisted software development.
+
+The assistant was developed and tested using Eclipse. Its source code is published in a separate GitHub repository.
+
+[View ULTRON Source Code](https://github.com/ramonaljimerritt-oss/UltronAI)
+
+## Technical Skills
+
+**Programming:** Java, Swift
+
+**AI Development Tools:** ChatGPT, Claude, Gemini
+
+**Cloud Familiarity:** Google Cloud
+
+**Development Tools:** Eclipse, Git, GitHub, GitHub Pages
+
+## Running the Portfolio Locally
+
+Open `index.html` in a modern web browser to view the portfolio website. Open `ai-assistant/index.html` to test the browser-based study helper.
+
+## AI-Assisted Development Disclosure
+
+AI tools were used to support software development, debugging, documentation, and project planning. The browser-based study helper uses a keyword-based response system rather than a live large language model. The ULTRON project is documented separately in its GitHub repository.
+
+## Career Goals
+
+My goal is to transition into the technology industry by combining my experience in industrial operations and leadership with my growing skills in software development, artificial intelligence, and computer science.
+
+## Contact
+
+Visit my [professional portfolio](https://ramonaljimerritt-oss.github.io/github-portfolio/index.html) for contact information and professional links.
